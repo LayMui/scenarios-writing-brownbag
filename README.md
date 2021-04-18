@@ -1,4 +1,4 @@
-# git-brownbag
+# scenarios-writing-brownbag
 
 ## Project setup
 ```
